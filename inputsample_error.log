@@ -1,0 +1,3 @@
+2019/07/11 07:19:30 [error] 934#934: *18897816 open() "/local/nginx/static/ads.txt" failed (2: No such file or directory), client: 85.195.82.90, server: app.xyz.id, request: "GET /ads.txt HTTP/1.1", host: "app.xyz.id"
+2020/07/11 07:19:30 [error] 934#934: *18897816 open() "/local/nginx/static/ads.txt" failed (2: No such file or directory), client: 85.195.82.90, server: app.xyz.id, request: "GET /ads.txt HTTP/1.1", host: "app.xyz.id"
+2021/07/11 07:19:30 [error] 934#934: *18897816 open() "/local/nginx/static/ads.txt" failed (2: No such file or directory), client: 85.195.82.90, server: app.xyz.id, request: "GET /ads.txt HTTP/1.1", host: "app.xyz.id"
