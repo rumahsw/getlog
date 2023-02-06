@@ -1,6 +1,6 @@
 # getlog
 
-getlog (umarhammamm.py) akan membaca dan memparsing baris per baris dari nginx error log file. Kemudian mengekstrak data-data timestamp, severity, process_id, thread_id, connection_id, message, client_ip, request, server, dan host. Lalu merubah ke format json.
+getlog (umarhammam.py) akan membaca dan memparsing baris per baris dari nginx error log file. Kemudian mengekstrak data-data timestamp, severity, process_id, thread_id, connection_id, message, client_ip, request, server, dan host. Lalu merubah ke format json.
 
 Contoh penggunaan:
 ```
