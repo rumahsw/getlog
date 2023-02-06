@@ -4,11 +4,11 @@ getlog (umarhammam.py) akan membaca dan memparsing baris per baris dari nginx er
 
 Contoh penggunaan:
 ```
-python umarhammam.py inputsample_error.log -t json -o nginx_error_log.json
+python3 umarhammam.py inputsample_error.log -t json -o nginx_error_log.json
 ```
 atau
 ```
-python umarhammam.py -h
+python3 umarhammam.py -h
 ```
 
 tested on Python 3.8.10
